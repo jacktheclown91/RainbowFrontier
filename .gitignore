@@ -1,0 +1,18 @@
+# Dependencies / generated build output
+node_modules/
+tools/build/node_modules/
+tools/build/dist/
+
+# Submission archives are uploaded separately to js13kGames
+*.zip
+
+# Local/editor/OS noise
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Python cache
+__pycache__/
+*.py[cod]
