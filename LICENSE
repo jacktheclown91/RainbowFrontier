@@ -1,7 +1,44 @@
+Rainbow Frontier Source-Available License
+Version 1.0 — 2026
+
 Copyright (c) 2026 jacktheclown91
 All rights reserved.
 
-The source code is published for inspection, judging, and archival purposes.
-No permission is granted to copy, modify, redistribute, sublicense, or sell
-substantial portions of this software except where otherwise required by law
-or separately authorized by the copyright holder.
+Rainbow Frontier is publicly viewable source, not open-source software.
+
+You are allowed to:
+
+1. Read and inspect this repository.
+2. Run the game and build scripts privately for personal evaluation, testing,
+   education, or verification of the js13kGames entry.
+3. Learn general programming ideas, techniques, and approaches from the work.
+
+You are NOT granted permission to copy, modify, adapt, publish, redistribute,
+relicense, sublicense, sell, repackage, or include protected portions of this
+project in another public or commercial work.
+
+That restriction includes the source code, game-specific text, visual designs,
+procedural content, screenshots, release artifacts, and other copyrightable
+material in this repository unless separate written permission says otherwise.
+
+No permission is granted to use the repository or generated game content as
+training, fine-tuning, evaluation, or benchmark material for machine-learning
+systems.
+
+Want to make something that actually reuses or adapts part of Rainbow Frontier?
+Ask first. Permission may be granted in writing, and attribution to
+"Rainbow Frontier by jacktheclown91" will normally be required. Asking nicely
+costs zero bytes, which makes it one of the few things here that fits comfortably
+inside the js13k limit.
+
+Nothing in this license claims ownership over unprotectable ideas, facts,
+algorithms, techniques, or general inspiration. Copyright protects expression,
+not the concept of "unicorn does a thing." If your work is merely inspired by
+what you learned here and does not copy protected material, make your own thing.
+Credit is appreciated.
+
+THE SOFTWARE AND MATERIALS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. TO THE MAXIMUM EXTENT
+PERMITTED BY LAW, THE COPYRIGHT HOLDER SHALL NOT BE LIABLE FOR ANY CLAIM,
+DAMAGES, OR OTHER LIABILITY ARISING FROM THE SOFTWARE OR ITS USE.

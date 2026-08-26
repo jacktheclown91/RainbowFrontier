@@ -1,18 +1,28 @@
-# Dependencies / generated build output
+# Build junk. If Git needs 200 MB to explain a 13 KB game, something has gone terribly wrong.
 node_modules/
 tools/build/node_modules/
 tools/build/dist/
 
-# Submission archives are uploaded separately to js13kGames
+# Release archives are built locally, not stored as source.
 *.zip
 
-# Local/editor/OS noise
+# Local/editor/OS clutter.
 *.log
 .DS_Store
 Thumbs.db
 .vscode/
 .idea/
+press/
+README.txt
 
-# Python cache
+# Python leftovers.
 __pycache__/
 *.py[cod]
+
+# Secrets. Publishing these is a speedrun category nobody asked for.
+.env
+.env.*
+
+# Local hidden directories/files stay local unless explicitly whitelisted here.
+.*
+!.gitignore
